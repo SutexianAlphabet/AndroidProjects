@@ -12,6 +12,7 @@
         android:layout_height="729dp"
         android:divider = "@color/black"
         android:dividerHeight = "10sp"
+        android:choiceMode="singleChoice"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
